@@ -41,12 +41,3 @@ char	*ft_substr(char const *s, unsigned int start, size_t len)
 		*sub_string = '\0';
 	return (sub_string);
 }
-
-int main()
-{
-	char *str = "D6dT52sfivl TguhOV Ycs6pC G3z08J bBRlZo1pS9O mzKM2q5EydwGI6b7";
-	size_t len = 3;
-	unsigned int start = 8;
-	printf("res = %s\n", ft_substr(str, start, len));
-	return (0);
-}
