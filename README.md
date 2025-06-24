@@ -1,9 +1,8 @@
 # libft
 
+## GNU C Library (glibc)
 
-  ## GNU C Library (glibc)
-
-  Functions to check and manipulate characters:
+Functions to check and manipulate characters:
   - ft_isalpha
   - ft_isdigit
   - ft_isalnum
@@ -12,7 +11,7 @@
   - ft_toupper
   - ft_tolower
 
-    # Functions to manipulate strings:
+Functions to manipulate strings:
     - ft_strlen
     - ft_strlcpy
     - ft_strlcat
