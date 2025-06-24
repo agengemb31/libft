@@ -20,18 +20,18 @@ Functions to manipulate strings:
   - ft_strncmp
   - ft_strrnstr
 
-    # Functions to manipulate memory:
-    - ft_memset
-    - ft_bzero
-    - ft_memcpy
-    - ft_memmove
-    - ft_memchr
-    - ft_memcmp
-    - ft_calloc
-    - ft_strdup
+Functions to manipulate memory:
+  - ft_memset
+  - ft_bzero
+  - ft_memcpy
+  - ft_memmove
+  - ft_memchr
+  - ft_memcmp
+  - ft_calloc
+  - ft_strdup
 
-    # Functions for numbers:
-    - ft_atoi
+Functions for numbers:
+  - ft_atoi
   
   ## Non-standard functions
 
