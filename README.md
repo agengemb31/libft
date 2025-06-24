@@ -1,6 +1,6 @@
 # libft
 
-42 School's first project which consists of creating utility library functions that can be used for future projects.
+42 School's first project which consists of creating utility library functions in C that can be used for future projects.
 
 ## GNU C Library (glibc)
 
