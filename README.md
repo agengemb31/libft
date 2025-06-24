@@ -3,32 +3,32 @@
 ## GNU C Library (glibc)
 
 Functions to check and manipulate characters:
-  - ft_isalpha
-  - ft_isdigit
-  - ft_isalnum
-  - ft_isascii
-  - ft_isprint
-  - ft_toupper
-  - ft_tolower
+- ft_isalpha
+- ft_isdigit
+- ft_isalnum
+- ft_isascii
+- ft_isprint
+- ft_toupper
+- ft_tolower
 
 Functions to manipulate strings:
-  - ft_strlen
-  - ft_strlcpy
-  - ft_strlcat
-  - ft_strchr
-  - ft_strrchr
-  - ft_strncmp
-  - ft_strrnstr
+- ft_strlen
+- ft_strlcpy
+- ft_strlcat
+- ft_strchr
+- ft_strrchr
+- ft_strncmp
+- ft_strrnstr
 
 Functions to manipulate memory:
-  - ft_memset
-  - ft_bzero
-  - ft_memcpy
-  - ft_memmove
-  - ft_memchr
-  - ft_memcmp
-  - ft_calloc
-  - ft_strdup
+- ft_memset
+- ft_bzero
+- ft_memcpy
+- ft_memmove
+- ft_memchr
+- ft_memcmp
+- ft_calloc
+- ft_strdup
 
 Functions for numbers:
   - ft_atoi
