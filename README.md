@@ -4,7 +4,7 @@
 
 ## Usage
 
-`make` to compile mandatory functions.\ 
+`make` to compile mandatory functions.  
 `make bonus` to compile with List functions.
 
 ## GNU C Library (glibc)
