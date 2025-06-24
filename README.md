@@ -31,35 +31,35 @@ Functions to manipulate memory:
 - ft_strdup
 
 Functions for numbers:
-  - ft_atoi
-  
-  ## Non-standard functions
+- ft_atoi
 
-     # Functions to manipulate strings:
-     - ft_substr
-     - ft_strjoin
-     - ft_strtrim
-     - ft_split
-     - ft_strmapi
-     - ft_striteri
+## Non-standard functions
 
-    # Functions for numbers:
-    - ft_itoa
+Functions to manipulate strings:
+- ft_substr
+- ft_strjoin
+- ft_strtrim
+- ft_split
+- ft_strmapi
+- ft_striteri
+
+Functions for numbers:
+- ft_itoa
     
-    # Functions to write to a file descriptor
-    - ft_putchar_fd
-    - ft_putstr_fd
-    - ft_putendl_fd
-    - ft_putnbr_fd
+Functions to write to a file descriptor
+- ft_putchar_fd
+- ft_putstr_fd
+- ft_putendl_fd
+- ft_putnbr_fd
   
-  ## List functions
+## List functions
 
-  - ft_lstnew
-  - ft_lstadd_front
-  - ft_lstsize
-  - ft_lstlast
-  - ft_lstadd_back
-  - ft_lstdelone
-  - ft_lstclear
-  - ft_lstiter
-  - ft_lstmap
+- ft_lstnew
+- ft_lstadd_front
+- ft_lstsize
+- ft_lstlast
+- ft_lstadd_back
+- ft_lstdelone
+- ft_lstclear
+- ft_lstiter
+- ft_lstmap
