@@ -2,6 +2,11 @@
 
 42 School's first project which consists of creating utility library functions in C that can be used for future projects.
 
+## Usage
+
+`make` to compile mandatory functions.
+`make` bonus` to compile with List functions.
+
 ## GNU C Library (glibc)
 
 Functions to check and manipulate characters:
