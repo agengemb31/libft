@@ -1,5 +1,7 @@
 # libft
 
+42 School's first project which consists of creating utility library functions that can be used for future projects.
+
 ## GNU C Library (glibc)
 
 Functions to check and manipulate characters:
