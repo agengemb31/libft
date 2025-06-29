@@ -1,5 +1,15 @@
-&emsp;                                           ![libft Logo](https://github.com/agengemb31/agengemb31/blob/main/Projects-Badges/libfte.png)
-  
+<style>
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+  }
+</style>
+
+<div class="center">
+ ![libft Logo](https://github.com/agengemb31/agengemb31/blob/main/Projects-Badges/libfte.png)
+</div>
 
 # libft
 
