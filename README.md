@@ -2,6 +2,8 @@
 
 42 School's first project which consists of creating utility library functions in C that can be used for future projects.
 
+[Subject](https://github.com/agengemb31/libft/blob/main/en.subject.pdf)
+
 ## Usage
 
 `make` to compile mandatory functions.  
