@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://example.com/image.jpg](https://github.com/agengemb31/agengemb31/blob/main/Projects-Badges/libfte.png)" alt="libft Logo" />
+  <img src="https://github.com/agengemb31/agengemb31/blob/main/Projects-Badges/libfte.png" alt="libft Logo" />
 </div>
 
 # libft
